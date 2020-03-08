@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="fi">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		{% bundledCss %}
+		<title>{{ title or site.title }}</title>
+	</head>
+	<body>
+		<div class="app mx-auto max-w-2xl">
+			<header class="app-header px-2 mx-auto max-w-xl py-4">
+				<a class="skip-link screen-reader-text" href="#main">Siirry sisältöön</a>
+
+				{% include "components/nav.njk" %}
+			</header>
+
+			<main id="main" class="app-main px-2 py-8 mx-auto max-w-xl has-white-background-color">
+				<article class="entry">
+					<header class="entry__header has-text-align-center mx-auto">
+						<h1 class="entry__title">{{ title }}</h1>
+					</header>
+
+					<div class="entry__content flow-spacing">
+						{{ content | safe }}
+					</div>
+				</article>
+			</main>
+
+			{% bundledJs %}
+		</div>
+	</body>
+</html>
