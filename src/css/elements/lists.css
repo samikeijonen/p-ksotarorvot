@@ -14,12 +14,17 @@ ol {
 
 li > {
 
-	ul,
-	ol {
+	& ul,
+	& ol {
 		margin-bottom: 0;
 		margin-left: var(--spacing-2x);
 		padding-left: var(--spacing-2x);
 	}
+}
+
+ul li,
+ol li {
+	margin-top: var(--spacing);
 }
 
 dt {

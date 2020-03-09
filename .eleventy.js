@@ -33,7 +33,10 @@ module.exports = function(eleventyConfig) {
 	eleventyConfig.addPassthroughCopy({ "src/img": "img" });
 
   // Copy all fonts directly to dist.
-  eleventyConfig.addPassthroughCopy({ "src/fonts": "fonts" });
+	eleventyConfig.addPassthroughCopy({ "src/fonts": "fonts" });
+
+  // Copy all files directly to dist.
+  eleventyConfig.addPassthroughCopy({ "src/files": "files" });
 
   // Copy external dependencies to dist.
   eleventyConfig.addPassthroughCopy({ "src/vendor": "vendor" });
