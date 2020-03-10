@@ -11,7 +11,7 @@
 .nav__item {
 	margin-bottom: var(--spacing-2x);
 	margin-right: var(--spacing-4x);
-	margin-top: var(--spacing-2x);
+	margin-top: var(--spacing);
 }
 
 .nav__item:last-child {
@@ -30,10 +30,10 @@
 
 	&::after {
 		background-color: var(--color-primary-900);
-		bottom: calc(var(--spacing-sm) * -1);
+		bottom: -2px;
 		content: "";
 		display: block;
-		height: var(--spacing-sm);
+		height: 2px;
 		position: absolute;
 		transition: width var(--transition-duration-md);
 		width: 0;
@@ -51,12 +51,10 @@
 	}
 }
 
-.nav__anchor.nav__anchor--button {
-
-	&:hover,
-	&:active,
-	&:focus {
-	}
+.nav__anchor--footer {
+	color: var(--color-grey-700);
+	letter-spacing: 0;
+	text-transform: none;
 }
 
 .nav__sub-nav .nav__anchor {
