@@ -1,0 +1,43 @@
+---
+title: "Everstiluutnantti Jouni Mattilan tervehdys"
+date: "2011-10-14"
+layout: default
+---
+
+**PUOLUSTUSVOIMAIN POHJOIS-KARJALAN ALUETOIMISTON PÄÄLLIKÖN, EVERSTILUUTNANTTI JOUNI MATTILAN TERVEHDYS VALTAKUNNALLISILLA KAATUNEITTEN OMAISTEN LIITON HENGELLISILLÄ JA KULTTUURIPÄIVILLÄ JOENSUUSSA 2.10.2011 KLO 14.00**
+
+**Kunnioitetut sotalesket, sotaorvot, sotiemme veteraanit, Kaatuneitten Omaisten liiton herra puheenjohtaja, arvoisa rouva ylijohtaja, juhlan järjestävien yhdistysten** **(Joensuun Kaatuneitten Omaiset ry, Pohjois-Karjalan Sotaorvot ry)** **puheenjohtajat, hyvä juhlayleisö!**
+
+Minulla on Pohjois-Karjalan Aluetoimiston päällikkönä, maakuntamme sotilaallisena aluehallintoviranomaisena ja Pohjois-Karjalan puolustuksen suunnittelusta ja tarvittaessa myös puolustuksen johtamisesta vastaavana sotilasalueen komentajana kunniatehtävä tuoda tänne Kaatuneitten Omaisten liiton hengellisten ja kulttuuripäivien pääjuhlaan puolustusvoimien ja erityisesti meidän Pohjois-Karjalan Aluetoimistossa ja Pohjois-Karjalan Prikaatissa Kontiorannassa palvelevan henkilöstön tervehdys. Pääosalla teistä oli tänään mahdollisuus käydä lounaalla tuossa kauniissa varuskunnassamme, toivottavasti käyntinne oli mieluisa tiukasta aikataulustanne huolimatta!
+
+**Hyvä juhlayleisö**
+
+Tuon teille terveiset puolustusvoimista, jossa valmistaudutaan sotiemme jälkeisen ajan suurimpaan johtamisjärjestelmän ja koko organisaation muutokseen. Kuten olette mediasta kuulleet olemme siirtymässä nykyisestä viisiportaisesta kolmiportaiseen johtamisjärjestelmään. Kuten on kerrottu se tarkoittanee ainakin nykyisten neljän sotilasläänin esikunnan lakkauttamista ja mahdollisesti niiden tehtävien siirtämistä, pääosin juuri edustamilleni aluetoimistoille ja osin varmaan myös joukko-osastoille. On myös kerrottu, että esim. joukko-osastoja supistetaan vastaamaan paremmin tulevia varusmiesikäluokkia, jotka pienenevät merkittävästi seuraavien neljän vuoden aikana, 33 000:sta lähes 29 000:een. Pääsyy supistuksille ei ole kuitenkaan edellä mainittu, vaan niukkenevat resurssit eli raha, onhan hallitusohjelmassa puolustusvoimille linjattu noin 200 milj. euron supistukset, ja kun siihen lisätään muut henkilöstö- ja materiaalihankintojen kustannusten noususta aiheutuvat kasvupaineet, puhutaan ainakin noin 500 milj. euron säästövelvoitteista tämän hallituskauden aikana. Uudistukset ovat väistämättömiä, mutta mielestäni samalla myös tarpeellisia - puolustusvoimissa on elettävä ajan hengessä, ja varsinkaan yli varojemme emme voi elää!
+
+Joudumme ilmeisesti aikaistamaan suunniteltua muutoksen täytäntöönpanoa (joka oli tarkoitus toteuttaa 1.1.2016 mennessä). Sopeuttamistoimet käynnistyvät jo ensi vuoden alussa, aloitamme supistamalla päivittäisiä toimintojamme, eli vähentämällä varusmiesten maastovuorokausia ja reservin kertausharjoituksia. Merkittävää on, että varsinainen rakenneuudistus (joukko-osastojen lakkauttamiset ml) toteutettaneen jo vuosina 2013 ja 2014. Mitä se tarkoittaa sitten Pohjois-Karjalassa ja muissa maakunnissa, (_joissa nyt sijaitsee pv:n esikuntia, laitoksia, joukko-osastoja, varikkoja ja varastoalueita)_. Aika näyttää - en ryhdy edes arvailemaan lopputulosta – lopullinen päätösvalta tässä asiassa on poliitikoilla. Noita päätöksiä toivotaan tehtävän kuitenkin viimeistään jo ensi kesänä, jotta päätetyille toimenpiteille jäisi riittävästi aikaa. Oleellista on, ettei puolustusvoimien päätehtäviä tulla muuttamaan, eikä yleisestä asevelvollisuudesta tulla luopumaan. Näin säilytämme kriisien ennaltaehkäisykyvyn, mutta samalla myös uskottavan puolustuskyvyn pahimman päivän varalle.
+
+Mitä tuleva uudistus merkitsee puolustusvoimien ja esim. eri reserviläis- ja maanpuolustusjärjestöjen välisessä yhteistoiminnassa, myös teidän Kaatuneitten Omaisten liiton ja Sotaorpojen suuntaan. Hyvän yhteistyön jatkuminen turvataan sillä, että puolustusvoimat on tulevaisuudessakin läsnä jokaisessa maakunnassa. Uskon ja toivon, että meillä aluetoimistoilla on jatkossa nykyistä vielä merkittävämpi rooli tuon yhteistyön tekijänä. Olen varma että tulette saamaan sen tuen puolustusvoimilta, jonka olette tähänkin saakka toimintaanne saaneet! Tämän tapahtuman tukeminen oli meille myös kunniatehtävä, jolla maksamme teille hitusen kunniavelkaamme. _(Puheessa otin vastaan myös ylijohtaja Elli Aaltosen juhlapuheessaan peräänkuuluttaman Sotaorpojen perinnön siirtämisestä nuoremmille sukupolville - lupasin että ainakin PKARPR:ssa tehdään näin varusmiesten osalta - käytännön toimet sovitaan Pohjois-Karjalan Sotaorvot ry:n puhjoht Aune-Inkeri Keijosen kassa rinnan/osana veteraanityötä)._
+
+**Hyvät kuulijani**
+
+Muutokset ovat jatkuvia koko yhteiskunnassa, niin myös puolustusvoimissa. Nämä muutokset eivät kuitenkaan ole sellaisia kuin mitä te, hyvät kaatuneitten omaiset ja sotaorvot aikanaan koitte! Te menetitte ikuisiksi ajoiksi sodan ajan puolustusvoimissa tai kotirintamalla palvelleen isänne, äitinne, lapsenne, omaisenne, rakkaat lähimmäisenne, ne jotka puolustivat itsenäisyyttämme ja tätä rakasta isänmaatamme antamalla uhriksi oman henkensä. Ne raskaat kokemukset ovat seuranneet teitä koko elämänne ajan, vaikka pääosa teistä onkin selviytynyt elämässä eteenpäin todella hyvin, olette menestyneet työssä ja elämässä muutoinkin, olette rakentaneet tämän maan maailman menestyneimpien ja osaavimpien kansakuntien joukkoon. Kokemianne kärsimyksiä, sitä surua, ikävää ja yksinäisyyttä, ei voi verrata mihinkään nykypäivän nuoremman sotaa kokemattoman sukupolven ongelmiin. Onhan omien vanhempien tuki ja turva jokaiselle ihmiselle, varsinkin lapselle ja nuorelle - kuten te olitte tuolloin talvi- ja jatkosodan aikana ja niitä seuranneina vuosina - yksi tärkeimpiä, elämää eheyttävä ja elämässä eteenpäin kantavia voimia, niin iloissa kuin suruissa, teiltä monelta se tuki ja turva puuttui.
+
+Me puolustusvoimissa nuoria miehiä ja nykyään myös naisia varusmiespalveluksessa kouluttavat koemme, omalla tavallamme pienessä mittakaavassa, tuon saman asian. Moni meille asepalvelukseen tuleva nuori on menettänyt vanhempansa huumeiden käytön, alkoholismin, muiden epäterveiden elämäntapojen, avioerojen - siis särkyneiden perheiden takia. Noissa perheissä lapset on usein jätetty heitteille – oman onnensa varaan. He ovat vaarassa syrjäytyä, elleivät he saa mahdollisuutta esim. varusmiespalveluksessa osoittaa omaa osaamistaan – se on monelle heistä viimeisiä mahdollisuuksia onnistua ja päästä yhteiskunnan hyväksymäksi täysivaltaiseksi kansalaiseksi. Onneksi onnistummekin siinä työssä monta kertaa erinomaisen hyvin!
+
+Varusmiehelle omien lähimmäisten, siis äidin ja isän, tuki palveluksen aikana on tärkeämpi kuin monesti uskommekaan. Valmiusyhtymässämme Karjalan Prikaatissa asiaa tutkittiin varusmiesten loppukyselyissä, siis noin viikkoa ennen kotiutumista. Nuorilta kysyttiin ketkä olivat heille varusmiespalveluksen ajan ongelmatilanteissa (palvelus/siviilielämä) tärkeimpiä henkilöitä, joiden apuun he niissä tilanteissa tukeutuivat. Ylivoimaisesti tärkein ihminen heille oli ollut äiti, sitten isä ja seuraavana sisaret. Vasta sen jälkeen tulivat joukko-osaston sosiaalikuraattori ja sitten sotilaspastori. Viimeisessä ”korissa” olimme me sotilaat; komppanian päälliköt, vääpelit ja kouluttajat.
+
+Kotijoukkojen tuki on siis tärkeä myös nykynuorelle, vaikka he kenties toista ”esittävät”. Väitteet etteivät vanhemmat välitä nuorten tekemisistä ja tue heitä, ei koske ainakaan varusmiespalveluksen suorittavien nuorten vanhempia. Todettakoon siitä yhtenä esimerkkinä prikaatin heinäkuun saapumiserän valatilaisuus elokuun lopulla, osallistuihan siihen noin 3200 omaista. Kun valan vannoneita/vakuutuksen tehneitä oli 624, tekee se viisi omaista per nuori.
+
+Nämä edellä kuvaamani asiat korostavat sitä miten tärkeä meille kaikille on se lähimmäisen (isän tai äidin tai jonkun muun lähimmäisen kuten teillä hyvät kaatuneitten omaiset on ollut) välittäminen ja huolenpito, oli sitten sota, sodan jälkitila tai syvä rauhan aika, jossa nyt elämme.
+
+**Arvoisa juhlayleisö**
+
+Näillä sanoilla haluan omasta ja puolustusvoimien puolesta toivottaa Kaatuneitten Omaisten liitolle ja kaikille sen jäsenyhdistyksille aktiivisia toiminnan vuosia ja mitä parhainta menestystä arvokkaassa työssänne!
+
+Samalla haluan vielä onnitella Pohjois-Karjalan Sotaorvot ry:n johtoa ja yhdistyksen koko jäsenistöä 10 -vuotisjuhlavuotenne johdosta, jota vietitte virallisesti tuolloin 4.6.!
+
+Pidetään toisistamme, lähimmäisistämme ja vähän vieraimmistakin ihmisistä hyvää huolta!
+
+Oikein hyvää syksyä teille kaikille! Kiitos!
+
+Pohjois-Karjalan Aluetoimiston päällikkö, Everstiluutnantti Jouni Mattila, puh 0299 434 140
