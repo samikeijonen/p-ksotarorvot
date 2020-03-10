@@ -27,4 +27,4 @@ Konsertin juontaa Aune-Inkeri Keijonen.
 
 Joensuun seurakunnan ja Pohjois-Karjalan Sotaorpojen järjestämään kirkkokonserttiin on vapaa pääsy, viiden euron hintaisia ohjelmia myydään kirkon eteisessä  tuntia ennen konsertin alkua.
 
-[Konserttimainos Joensuun kirkko ke 4.6.2014 klo 18](http://p-ksotaorvot.fi/wp-content/uploads/2014/05/Konserttimainos-Joensuun-kirkko-ke-4.6.2014-klo-18.pdf) (.pdf)
+[Konserttimainos Joensuun kirkko ke 4.6.2014 klo 18](../../files/mainokset/Konserttimainos-Joensuun-kirkko-ke-4.6.2014-klo-18.pdf) (.pdf)
