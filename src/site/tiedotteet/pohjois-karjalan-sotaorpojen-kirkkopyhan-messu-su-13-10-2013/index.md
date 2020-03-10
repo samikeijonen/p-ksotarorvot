@@ -1,7 +1,6 @@
 ---
 title: "Pohjois-Karjalan Sotaorpojen Kirkkopyhän Messu su 13.10.2013"
-date: "2013-12-08"
-layout: default
+date: 2013-12-08
 ---
 
 **Pohjois-Karjalan Sotaorpojen Kirkkopyhän Messu su 13.10.2013 Rääkkylän kirkossa klo 10.00** \- liturgina: kirkkoherra Pertti Venäläinen - saarnaa: rovasti Aune-Inkeri Keijonen - musiikista vastaavat kanttori, opettaja Antti Pitkänen sekä opettaja Seija Pitkänen. tekstinlukijana: Hilkka Matilainen - Herran Pyhällä Ehtoollisella avustavat - Heikki Pirinen, Markku Saarinen ja Aune-Inkeri Keijonen -Seppelepartion sankarihaudoille lähettää sotaorvon puoliso, Mikko Hirvonen seppelepartiossa ovat sotaorpoveljekset Einari, Veikko ja Niilo Kettunen

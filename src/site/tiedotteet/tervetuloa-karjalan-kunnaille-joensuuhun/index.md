@@ -1,7 +1,6 @@
 ---
 title: "Tervetuloa Karjalan kunnaille Joensuuhun"
-date: "2011-09-25"
-layout: default
+date: 2011-09-25
 ---
 
 [![Joensuun kirkko](images/joensuun-kirkko-200x300.jpg "Joensuun kirkko")](http://p-ksotaorvot.fi/wp-content/uploads/2011/02/joensuun-kirkko.jpg)

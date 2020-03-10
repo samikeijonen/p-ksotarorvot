@@ -1,7 +1,6 @@
 ---
 title: "TERVETULOA  EIKU  RY:N  5 -VUOTISJUHLAKONSERTTIKIERTUEEN"
-date: "2012-08-30"
-layout: default
+date: 2012-08-30
 ---
 
 **SÄVELIN SIIVILLE – LIEDIN LUMOISSA -konsertteihin**

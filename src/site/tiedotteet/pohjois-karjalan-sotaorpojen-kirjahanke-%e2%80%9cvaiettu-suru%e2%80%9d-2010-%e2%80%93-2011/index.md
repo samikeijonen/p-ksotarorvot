@@ -1,7 +1,6 @@
 ---
 title: "Pohjois-Karjalan sotaorpojen kirjahanke “Vaiettu suru” 2010 – 2011"
-date: "2011-02-25"
-layout: default
+date: 2011-02-25
 ---
 
 POHJOIS-KARJALAN SOTAORPOJEN KIRJAHANKE “Vaiettu suru” 2010 – 2011

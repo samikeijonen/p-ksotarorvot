@@ -1,7 +1,6 @@
 ---
 title: "TERVETULOA  1918 VILPPULAN VAIHE -OOPPERAKONSERTTEIHIN"
-date: "2012-03-16"
-layout: default
+date: 2012-03-16
 ---
 
 **Oopperakonserttien kiertue alkaa kantaesityksellä Liperin kirkossa perjantaina 1.6. klo 19 ja jatkuu Keuruun kirkossa sunnuntaina 3.6. klo 14 ja klo 19 alkavilla esityksillä. Maanantaina 4.6., joka on Marskin syntymäpäivä ja Puolustusvoimien lippujuhlapäivä, esitys on historiallisten tapahtumien keskeisellä paikalla Vilppulan kirkossa klo 19 liittyen myös Vilppulan seurakunnan 100 -vuotisjuhlallisuuksiin. Kiertue huipentuu Tampereen tuomiokirkossa pidettävään esitykseen tiistaina 5.6. klo 19.**

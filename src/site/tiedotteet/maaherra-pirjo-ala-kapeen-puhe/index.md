@@ -1,7 +1,6 @@
 ---
 title: "Maaherra Pirjo Ala-Kapeen puhe"
-date: "2009-02-27"
-layout: default
+date: 2009-02-27
 ---
 
 Maaherra Pirjo Ala-Kapee

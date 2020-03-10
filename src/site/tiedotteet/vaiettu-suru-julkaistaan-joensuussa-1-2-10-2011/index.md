@@ -1,7 +1,6 @@
 ---
 title: "Vaiettu suru julkaistaan Joensuussa 1-2.10.2011"
-date: "2011-09-09"
-layout: default
+date: 2011-09-09
 ---
 
 Pohjois-Karjalan Sotaorvot ry julkaisee Kaatuneitten Omaisten ja sotaorpojen valtakunnallisilla hengellisillä ja kulttuurijuhlilla Joensuussa 1-2.10.2011 uunituoreen kirjansa Vaiettu suru.

@@ -1,7 +1,6 @@
 ---
 title: "Seppelpartion lähettäminen Joensuun kirkossa 2.9.2011"
-date: "2011-10-08"
-layout: default
+date: 2011-10-08
 ---
 
 Seppelpartion lähettäminen Joensuun kirkossa 2.9.2011 klo 10 Kaatuneitten Omaisten ja sotaorpojen valtakunnallisten hengellisten ja kulttuuripäivien juhlamessussa

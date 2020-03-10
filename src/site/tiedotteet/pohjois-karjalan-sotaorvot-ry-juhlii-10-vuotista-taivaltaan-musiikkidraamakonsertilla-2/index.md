@@ -1,7 +1,6 @@
 ---
 title: "POHJOIS-KARJALAN SOTAORVOT RY JUHLII 10 -VUOTISTA TAIVALTAAN MUSIIKKIDRAAMAKONSERTILLA"
-date: "2011-05-19"
-layout: default
+date: 2011-05-19
 ---
 
 **Sinua odotetaan Karjalan Kunnaille!**

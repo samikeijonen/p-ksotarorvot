@@ -1,7 +1,6 @@
 ---
 title: "Matti Sihvosen saarna Joensuu kirkossa 2.10.2011"
-date: "2011-10-08"
-layout: default
+date: 2011-10-08
 ---
 
 _Matti Sihvonen_

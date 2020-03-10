@@ -1,7 +1,6 @@
 ---
 title: "Puhe Pohjois-Karjalan Sotaorpojen kirkkopyhän"
-date: "2013-12-08"
-layout: default
+date: 2013-12-08
 ---
 
 Markku Ojanen SELVIYTYJIÄ JA KUKOISTAJIA – Yhteinen onni – paras onni Puhe Pohjois-Karjalan Sotaorpojen kirkkopyhänä Rääkkylässä 13.10.2013. Otteita puheesta.

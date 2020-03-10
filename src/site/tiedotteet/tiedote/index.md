@@ -1,7 +1,6 @@
 ---
 title: "Tiedote"
-date: "2012-02-03"
-layout: default
+date: 2012-02-03
 ---
 
 Pohjois-Karjalan Sotaorvot ry.

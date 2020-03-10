@@ -1,7 +1,6 @@
 ---
 title: "Sotaorvon taipaleelta"
-date: "2011-03-18"
-layout: default
+date: 2011-03-18
 ---
 
 Pohjois-Karjalan Sotaorvot ry:n 10-vuotisjuhlakonsertti Rantakylän kirkossa sunnuntaina 5.6.2011 klo 18. Lue lisää alla olevasta tiedotteista.

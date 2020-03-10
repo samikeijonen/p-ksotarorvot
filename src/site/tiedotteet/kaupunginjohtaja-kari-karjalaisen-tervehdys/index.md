@@ -1,7 +1,6 @@
 ---
 title: "Kaupunginjohtaja Kari Karjalaisen tervehdys"
-date: "2011-10-14"
-layout: default
+date: 2011-10-14
 ---
 
 Kaupunginjohtaja Kari Karjalaisen tervehdys Kaatuneitten Omaisten ja sotaorpojen hengellisten ja kulttuuripäivien pääjuhlassa Joensuussa, Carelia-salissa, 2.10.2011

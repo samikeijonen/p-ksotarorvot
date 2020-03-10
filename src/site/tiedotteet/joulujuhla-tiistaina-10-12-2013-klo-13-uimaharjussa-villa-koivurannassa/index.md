@@ -1,7 +1,6 @@
 ---
 title: "Joulujuhla tiistaina 10.12.2013 klo 13 Uimaharjussa Villa Koivurannassa"
-date: "2013-11-14"
-layout: default
+date: 2013-11-14
 ---
 
 osoite: Keskustie 5, 81280 Uimaharju

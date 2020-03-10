@@ -1,7 +1,6 @@
 ---
 title: "Lauluja elämästä, kesästä ja isänmaasta ke 4.6.2014 klo 18"
-date: "2014-05-29"
-layout: default
+date: 2014-05-29
 ---
 
 Kesäinen konsertti Joensuun kirkossa ke 4.6.2014 klo 18

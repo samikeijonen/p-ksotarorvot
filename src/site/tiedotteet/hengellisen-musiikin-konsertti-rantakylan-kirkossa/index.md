@@ -1,7 +1,6 @@
 ---
 title: "Hengellisen musiikin konsertti Rantakylän kirkossa"
-date: "2013-11-14"
-layout: default
+date: 2013-11-14
 ---
 
 **Konsertti on valitettavasti peruttu sairaustapauksen vuoksi ja siirtyy myöhempään ajankohtaan**.

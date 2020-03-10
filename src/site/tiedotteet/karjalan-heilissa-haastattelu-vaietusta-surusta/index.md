@@ -1,7 +1,6 @@
 ---
 title: "Karjalan Heilissä haastattelu Vaietusta surusta"
-date: "2011-02-25"
-layout: default
+date: 2011-02-25
 ---
 
 > Sotaorvot purkavat nyt traumojaan kirjankin muodossa

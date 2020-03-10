@@ -1,7 +1,6 @@
 ---
 title: "Lähde kanssamme Israeliin to 24.11. – to 1.12. 2011"
-date: "2011-03-18"
-layout: default
+date: 2011-03-18
 ---
 
 Matkanjohtajina toimivat Pohjois-Karjalan Sotaorvot ry:n puheenjohtaja, rovasti Aune-Inkeri Keijonen ja upea nuori musiikin monitaituri, ooppperalaulajana jo debyyttinsä tehnyt basso Matti Turunen. Aune-Inkeri on ollut kymmenellä Israelin matkalla ”matkapaimenena” ja Matti kävi sisarensa kanssa rippikoulunkin Israelissa. Joka kerran mainiona matkaoppaana on ollut, niin kuin nytkin, rovasti Pentti Holi, joka on asunut perheensä kanssa Israelissa ja taitaa heprean kielen, kulttuurin ja Raamatun maisemat sekä raamatunkertomukset myös ”suomeksi ja savoksi”! Teknisenä matkanjärjestäjänä toimii Lomamatkat.

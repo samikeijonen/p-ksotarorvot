@@ -1,7 +1,6 @@
 ---
 title: "Joukko hiljaisia kärsijöitä"
-date: "2012-03-16"
-layout: default
+date: 2012-03-16
 ---
 
 Paikallishistoria: Pohjois-Karjalassa oli noin 5000 - 6000 sotaorpoa

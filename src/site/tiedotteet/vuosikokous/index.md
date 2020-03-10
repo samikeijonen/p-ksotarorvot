@@ -1,7 +1,6 @@
 ---
 title: "VUOSIKOKOUS"
-date: "2013-11-14"
-layout: default
+date: 2013-11-14
 ---
 
 Sunnuntaina 23.2.1014 klo 13 Joensuussa ev.lut.srk.keskuksessa, os. Kirkkokatu 28.

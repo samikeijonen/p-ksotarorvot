@@ -1,7 +1,6 @@
 ---
 title: "POHJOIS-KARJALAN SOTAORVOT RY JUHLII 10 -VUOTISTA TAIVALTAAN MUSIIKKIDRAAMAKONSERTILLA"
-date: "2011-05-19"
-layout: default
+date: 2011-05-19
 ---
 
 [SOTAORVON TAIPALEELTA, tiedote](http://p-ksotaorvot.fi/wp-content/uploads/2011/05/SOTAORVON-TAIPALEELTA-tiedote.pdf) (.pdf)
