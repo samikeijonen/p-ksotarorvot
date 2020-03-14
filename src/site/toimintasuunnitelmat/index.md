@@ -4,6 +4,8 @@ layout: default
 ---
 
 <ul>
+<li><a href="../files/toimintasuunnitelmat/sotaorvot-toimintasuunnitelma-vuodelle-2020.pdf">Sotaorvot toimintasuunnitelma vuodelle 2020</a> (.pdf)</li>
+
 <li><a href="../files/toimintasuunnitelmat/Sotaorvot-toimintasuunnitelma-vuodelle-2019.pdf">Sotaorvot toimintasuunnitelma vuodelle 2019</a> (.pdf)</li>
 
 <li><a href="../files/toimintasuunnitelmat/Sotaorvot-toimintasuunnitelma-vuodelle-2018.pdf">Sotaorvot toimintasuunnitelma vuodelle 2018</a>&nbsp;(.pdf)</li>

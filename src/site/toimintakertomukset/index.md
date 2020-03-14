@@ -4,6 +4,8 @@ layout: default
 ---
 
 <ul>
+<li>Lataa <a href="../files/toimintakertomukset/toimintakertomus-2019.pdf">Toimintakertomus 2019</a> (.pdf)</li>
+
 <li>Lataa <a href="../files/toimintakertomukset/Toimintakertomus-2018.pdf">Toimintakertomus 2018</a> (.pdf)</li>
 
 <li>Lataa <a href="../files/toimintakertomukset/Toimintakertomus-v.-2017.pdf">Toimintakertomus 2017</a> (.pdf)</li>
