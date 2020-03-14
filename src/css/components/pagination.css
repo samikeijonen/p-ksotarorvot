@@ -17,3 +17,8 @@
 .pagination__anchor {
 	text-decoration: none;
 }
+
+.pagination__anchor[aria-current] {
+	color: var(--color-grey-700);
+	text-decoration: underline;
+}
