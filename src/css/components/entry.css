@@ -16,9 +16,9 @@
 
 .entry__byline {
 	color: var(--color-grey-500);
-	font-size: var(--font-size-sm);
-	letter-spacing: var(--letter-spacing-md);
-	text-transform: uppercase;
+	display: inline-block;
+	font-size: var(--font-size-md);
+	margin-bottom: var(--spacing);
 
 	& a {
 		color: inherit;

@@ -1,5 +1,6 @@
 const fs = require("fs");
 const path = require("path");
+const { DateTime } = require("luxon");
 
 const isDev = process.env.APP_ENV === "development";
 
@@ -27,6 +28,17 @@ module.exports = function(eleventyConfig) {
     return manifest["main.js"]
       ? `<script src="${manifest["main.js"]}"></script>`
       : "";
+	});
+
+	// Readable date.
+	eleventyConfig.addFilter("readableDate", dateObj => {
+    return DateTime.fromJSDate(dateObj, {zone: 'utc'}).toFormat("dd.L.yyyy");
+  });
+
+	// Valid date string.
+  // https://html.spec.whatwg.org/multipage/common-microsyntaxes.html#valid-date-string
+  eleventyConfig.addFilter('htmlDateString', (dateObj) => {
+    return DateTime.fromJSDate(dateObj, {zone: 'utc'}).toFormat('yyyy-LL-dd');
   });
 
   // Copy all images directly to dist.
