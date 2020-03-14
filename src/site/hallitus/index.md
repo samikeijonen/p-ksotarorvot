@@ -21,7 +21,8 @@ Hallitukseen kuuluu puheenjohtajan lisäksi 10 jäsentä. Taloudenhoitaja ei kuu
 
 **Martta Karttunen, sihteeri**
 <ul class="mt-0">
-	<li>Joensuu 050-3514842</li>
+	<li>Joensuu</li>
+	<li>050-3514842</li>
 	<li>karttunen.martta@kolumbus.fi</li>
 </ul>
 
@@ -34,7 +35,8 @@ Hallitukseen kuuluu puheenjohtajan lisäksi 10 jäsentä. Taloudenhoitaja ei kuu
 
 **Leila Immonen**
 <ul class="mt-0">
-	<li>Joensuu 050-3203469</li>
+	<li>Joensuu</li>
+	<li>050-3203469</li>
 	<li>immonen.leila@gmail.com</li>
 </ul>
 
@@ -46,23 +48,27 @@ Hallitukseen kuuluu puheenjohtajan lisäksi 10 jäsentä. Taloudenhoitaja ei kuu
 
 **Toivo Kuronen**
 <ul class="mt-0">
+	<li>Kitee</li>
 	<li>050-3440283</li>
 	<li>kuroneneevaliisa@gmail.com</li>
 </ul>
 
 **Kalle Lintunen**
 <ul class="mt-0">
+	<li>Tohmajärvi</li>
 	<li>0400-132328</li>
 </ul>
 
 **Pertti Mustajärvi**
 <ul class="mt-0">
-	<li>Joensuu 050-3230086</li>
+	<li>Joensuu</li>
+	<li>050-3230086</li>
 	<li>pertti.mustajarvi@luukku.com</li>
 </ul>
 
 **Toini Riissanen**
 <ul class="mt-0">
+	<li>Joensuu</li>
 	<li>0400-517427</li>
 </ul>
 
