@@ -3,9 +3,9 @@ title: "POHJOIS-KARJALAN SOTAORVOT RY JUHLII 10 -VUOTISTA TAIVALTAAN MUSIIKKIDRA
 date: 2011-05-19
 ---
 
-[SOTAORVON TAIPALEELTA, tiedote](http://p-ksotaorvot.fi/wp-content/uploads/2011/05/SOTAORVON-TAIPALEELTA-tiedote.pdf) (.pdf)
+[SOTAORVON TAIPALEELTA, tiedote](../../files/tiedotteet/SOTAORVON-TAIPALEELTA-tiedote.pdf) (.pdf)
 
-[SOTAORVON TAIPALEELTA, ohjelma](http://p-ksotaorvot.fi/wp-content/uploads/2011/05/SOTAORVON-TAIPALEELTA-ohjelma.pdf) (.pdf)
+[SOTAORVON TAIPALEELTA, ohjelma](../../files/tiedotteet/SOTAORVON-TAIPALEELTA-ohjelma.pdf) (.pdf)
 
 Pohjois-Karjalan Sotaorvot ry:n järjestää kymmenvuotisjuhlansa yhdessä Rantakylän seurakunnan kanssa Rantakylän kirkossa sunnuntaina 5.6.2011 klo 18. Juhlan avauspuheen pitää yhdistyksen puheenjohtaja, rovasti Aune-Inkeri Keijonen. Ansiomerkkien jaon jälkeen juhla jatkuu sotaorpo Paavo Joensalon juontamalla SOTAORVON TAIPALEELTA -konsertilla, joka muodostuu hänen 35-vuotisen sävellys- ja käsikirjoitusharrastuksensa tuloksena syntyneistä musiikkidraamojen lauluista. Konsertin kaikki kuusi solistia ovat Sibelius-Akatemian kasvatteja ja heitä säestää 6-jäseninen kamariyhtye. Tuottajana on Joensalon johtama Eettisesti Innovatiiviset Kulttuurin Uudistajat EIKU ry.
 

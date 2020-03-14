@@ -3,4 +3,6 @@ title: "Linnanjuhlien tunnelmia 2015"
 date: 2015-02-23
 ---
 
-[![WP_001365](images/WP_001365.jpg)](http://p-ksotaorvot.fi/wp-content/uploads/2015/02/WP_001365.jpg)
+<figure>
+	<img src="../../img/2015/02/WP_001365.jpg" alt="Linnanjuhlissa Aune-Inkeri ja Esko Keijonen">
+</figure>

@@ -7,4 +7,4 @@ Pohjois-Karjalan Sotaorvot ry julkaisee Kaatuneitten Omaisten ja sotaorpojen val
 
 Yli 300-sivuista upeaa kirjaa voi ostaa juhlien aikana ja myöhemmin tilauksesta 25 euron kappalehintaan.
 
-[Katso tästä Kansikuva - Vaiettu suru](http://p-ksotaorvot.fi/wp-content/uploads/2011/09/Kansikuva-kopio-kopio.pdf) (.pdf)
+[Katso tästä Kansikuva - Vaiettu suru](../../files/mainokset/Kansikuva-kopio-kopio.pdf) (.pdf)

@@ -3,8 +3,6 @@ title: "Tervetuloa Karjalan kunnaille Joensuuhun"
 date: 2011-09-25
 ---
 
-[![Joensuun kirkko](images/joensuun-kirkko-200x300.jpg "Joensuun kirkko")](http://p-ksotaorvot.fi/wp-content/uploads/2011/02/joensuun-kirkko.jpg)
-
 Mikkelinpäivän pyhäseudun, 1-2.10.2011, KOL:n valtakunnallisille Kulttuuri- ja hengellisille päiville!
 
 Me Pohjois-Karjalan Sotaorvot odotamme innolla ainakin 600 vierasta Joensuuhun, vuoden tärkeimpään yhteiseen juhlaamme. Tiiviit valmistelut ovat olleet käynnissä jo pitkälti toista vuotta ja ohjelma pääpiirteissään valmiina! Haluamme antaa Pohjois-Karjalasta elinvoimaisen ja kulttuurisesti ja hengellisesti vireän, aidon karjalaisen kuvan, jossa ilot ja surut limittyvät elämänmakuisesti yhdeksi kokonaisuudeksi. Täällä eletään hyvin läheisessä rinnakkaiselossa luterilaisten ja ortodoksien kesken ja siksi myös ortodoksisuus on juhlaviikonlopussa vahvasti mukana. Lauantaina 1.10. Joensuun seurakuntayhtymä tarjoaa Joensuun seurakuntakeskuksessa, Kirkkokatu 28, ilmoittautumisen yhteydessä tulokahvit ja lähtökahveista vastaavat Pohjois-Karjalan Osuuspankit Karelian Marttojen käytännön avulla. Lauantain ohjelmassa on kiertoajelu Joensuussa, jossa käymme mm. ainutlaatuisella Bunkkerimuseolla, Ortodoksisessa Kulttuurikeskuksessa ja Utran pystyhirsikirkossa. Ilta päättyy Karjalaisen kansan messuun Joensuun kirkossa, jossa messun säveltäjä ja sanoittaja, Pielisensuun kirkkoherra Tapani Nuutinen palvelee yhdessä nuorekkaan Nardus-kuoron ja sen johtajan, kanttori Tiina Korhosen kanssa.

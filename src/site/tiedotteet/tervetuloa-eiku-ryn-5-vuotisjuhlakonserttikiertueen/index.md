@@ -5,8 +5,6 @@ date: 2012-08-30
 
 **SÄVELIN SIIVILLE – LIEDIN LUMOISSA -konsertteihin**
 
-[Lataa juliste](http://p-ksotaorvot.fi/wp-content/uploads/2012/08/SÄVELIN-SIIVILLE-LIEDIN-LUMOISSA-5-vuotisjuhlakonserttikiertueen-juliste-EIKU-ry.pdf) (.pdf)
-
 **Tänä vuonna viisi vuotta täyttävä liperiläinen Eettisesti Innovatiiviset Kulttuurin Uudistajat EIKU ry, jonka toiminnan tarkoitus on nostaa lupaavia kulttuurikykyjä siivilleen, tuottaa juhlavuotensa tiimoilta 22-23. syyskuuta Joensuuhun, Kiteelle ja Ylämyllylle suuntautuvan  liedkonserttikiertueen, jossa solisteina kuullaan kuutta Sibelius-Akatemiassa valmistumisvaiheessa olevaa tai sieltä valmistunutta laulajaa. Useimmat solisteista ovat menestyneet viime vuosina upeasti kotimaisissa laulukilpailuissa. Heistä joensuulaislähtöinen basso M a t t i  T u r u n e n ylsi kuluneena kesänä sekä Savonlinnan kansainvälisen laulukilpailun että Alavudella järjestetyn Toivo Kuula -laulukilpailun finaaliin.**
 
 **Solistit tulkitsevat kiertueen konserteissa Viinijärvellä asuvan EIKU ry:n toiminnanjohtajan, sotaorpo P a a v o  J o e n s a l o n  36 vuotta kestäneen sävellysharrastuksen tuloksena syntyneitä, pääosin ennen esittämättömiä liedejä piano- ja kamariyhtyesäestyksellä.**
