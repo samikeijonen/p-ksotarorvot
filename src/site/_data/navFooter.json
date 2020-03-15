@@ -9,6 +9,10 @@
 			"url": "/tiedotteet/"
 		},
 		{
+			"text": "Kirjahanke",
+			"url": "/kirjahanke/"
+		},
+		{
 			"text": "Hallitus",
 			"url": "/hallitus/"
 		},
