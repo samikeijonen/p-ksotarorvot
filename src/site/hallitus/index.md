@@ -16,7 +16,7 @@ Hallitukseen kuuluu puheenjohtajan lisäksi 10 jäsentä. Taloudenhoitaja ei kuu
 <ul class="mt-0">
 	<li>Joensuu</li>
 	<li>050-3317271</li>
-	<li>pirjo.hyvarinen@gmail.com</li>
+	<li>pirjo.hyva@gmail.com</li>
 </ul>
 
 **Martta Karttunen, sihteeri**
@@ -37,7 +37,7 @@ Hallitukseen kuuluu puheenjohtajan lisäksi 10 jäsentä. Taloudenhoitaja ei kuu
 <ul class="mt-0">
 	<li>Joensuu</li>
 	<li>050-3203469</li>
-	<li>immonen.leila@gmail.com</li>
+	<li>immonenleila@gmail.com</li>
 </ul>
 
 **Pirkko Kolehmainen**
