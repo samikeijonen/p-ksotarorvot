@@ -1,6 +1,7 @@
 ---
 title: Hallitus
 layout: default
+metaDesc: Hallitukseen kuuluu puheenjohtajan lisäksi 10 jäsentä. Puheenjohtajana toimii Aune-Inkeri Keijonen.
 ---
 
 Hallitukseen kuuluu puheenjohtajan lisäksi 10 jäsentä. Taloudenhoitaja ei kuulu hallitukseen, mutta hänellä on oikeus ja hänen toivotaan osallistuvan kokouksiin.

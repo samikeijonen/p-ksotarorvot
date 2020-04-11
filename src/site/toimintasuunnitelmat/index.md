@@ -1,6 +1,7 @@
 ---
 title: Toimintasuunnitelmat
 layout: default
+metaDesc: Pohjois-Karjalan sotaorpojen toimintasuunnitelmat.
 ---
 
 <ul>

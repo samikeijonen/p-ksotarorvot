@@ -1,6 +1,7 @@
 ---
 title: Kirjahanke
 layout: default
+metaDesc: Pohjois-Karjalan Sotaorvot ry on ryhtynyt kirjahankkeeseen, jonka tavoitteena on saada kansien väliin monipuolinen kuvaus sodissa 1939 – 1944 kaatuneiden ja sotaorvoiksi jääneiden henkilöiden elämän vaiheista nykypäivään saakka.
 ---
 
 

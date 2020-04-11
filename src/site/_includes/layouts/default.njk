@@ -5,6 +5,12 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		{% bundledCss %}
 		<title>{{ title or site.title }}</title>
+
+		{% if metaDesc %}
+			<meta name="description" content="{{ metaDesc }}" />
+			<meta name="twitter:description" content="{{ metaDesc }}" />
+			<meta property="og:description" content="{{ metaDesc }}" />
+		{% endif %}
 	</head>
 	<body>
 		<div class="site mx-auto max-w-2xl">

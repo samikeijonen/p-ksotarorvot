@@ -1,6 +1,7 @@
 ---
 title: Jäsenkirjeet
 layout: default
+metaDesc: Pohjois-Karjalan sotaorpojen jäsenkirjeet.
 ---
 
 - <a href="../files/jasenkirjeet/jasenkirje-1-2020.pdf">Jäsenkirje 1 / 2020</a> (.pdf)

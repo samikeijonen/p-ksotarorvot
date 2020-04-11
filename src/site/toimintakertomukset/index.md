@@ -1,6 +1,7 @@
 ---
 title: Toimintakertomukset
 layout: default
+metaDesc: Pohjois-Karjalan sotaorpojen toimintakertomukset.
 ---
 
 <ul>
