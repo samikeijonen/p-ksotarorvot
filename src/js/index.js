@@ -1,1 +1,1 @@
-console.log("Elevenpack javascript is loaded");
+// The game is on.
