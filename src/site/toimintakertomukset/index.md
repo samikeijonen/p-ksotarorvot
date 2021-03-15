@@ -5,7 +5,9 @@ metaDesc: Pohjois-Karjalan sotaorpojen toimintakertomukset.
 ---
 
 <ul>
-<li>Lataa <a href="../files/toimintakertomukset/toimintakertomus-2019.pdf">Toimintakertomus 2019</a> (.pdf)</li>
+<li>Lataa <a href="../files/toimintakertomukset/Toimintakertomus-2020.pdf">Toimintakertomus 2020</a> (.pdf)</li>
+
+<li>Lataa <a href="../files/toimintakertomukset/Toimintakertomus-2019.pdf">Toimintakertomus 2019</a> (.pdf)</li>
 
 <li>Lataa <a href="../files/toimintakertomukset/Toimintakertomus-2018.pdf">Toimintakertomus 2018</a> (.pdf)</li>
 

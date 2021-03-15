@@ -5,7 +5,9 @@ metaDesc: Pohjois-Karjalan sotaorpojen toimintasuunnitelmat.
 ---
 
 <ul>
-<li><a href="../files/toimintasuunnitelmat/sotaorvot-toimintasuunnitelma-vuodelle-2020.pdf">Sotaorvot toimintasuunnitelma vuodelle 2020</a> (.pdf)</li>
+<li><a href="../files/toimintasuunnitelmat/Sotaorvot-toimintasuunnitelma-vuodelle-2021.pdf">Sotaorvot toimintasuunnitelma vuodelle 2021</a> (.pdf)</li>
+
+<li><a href="../files/toimintasuunnitelmat/Sotaorvot-toimintasuunnitelma-vuodelle-2020.pdf">Sotaorvot toimintasuunnitelma vuodelle 2020</a> (.pdf)</li>
 
 <li><a href="../files/toimintasuunnitelmat/Sotaorvot-toimintasuunnitelma-vuodelle-2019.pdf">Sotaorvot toimintasuunnitelma vuodelle 2019</a> (.pdf)</li>
 

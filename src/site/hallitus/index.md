@@ -27,6 +27,13 @@ Hallitukseen kuuluu puheenjohtajan lisäksi 10 jäsentä. Taloudenhoitaja ei kuu
 	<li>karttunen.martta@kolumbus.fi</li>
 </ul>
 
+**Päivi Birgitta Eteläpää**
+<ul class="mt-0">
+	<li>Joensuu</li>
+	<li>050-4707756</li>
+	<li>paivi.etelapaa@pkterveys.fi</li>
+</ul>
+
 **Untamo Hakulinen**
 <ul class="mt-0">
 	<li>Joensuu</li>
@@ -45,13 +52,6 @@ Hallitukseen kuuluu puheenjohtajan lisäksi 10 jäsentä. Taloudenhoitaja ei kuu
 <ul class="mt-0">
 	<li>Joensuu</li>
 	<li>050-3793091</li>
-</ul>
-
-**Toivo Kuronen**
-<ul class="mt-0">
-	<li>Kitee</li>
-	<li>050-3440283</li>
-	<li>kuroneneevaliisa@gmail.com</li>
 </ul>
 
 **Kalle Lintunen**
