@@ -4,6 +4,7 @@ layout: default
 metaDesc: Pohjois-Karjalan sotaorpojen jäsenkirjeet.
 ---
 
+- <a href="../files/jasenkirjeet/jasenkirje-1-2022.pdf">Jäsenkirje 1 / 2022</a> (.pdf)
 - <a href="../files/jasenkirjeet/jasenkirje-1-2020.pdf">Jäsenkirje 1 / 2020</a> (.pdf)
 - <a href="../files/jasenkirjeet/Jasenkirje-1-2019.pdf">Jäsenkirje 1 / 2019</a> (.pdf)
 - <a href="../files/jasenkirjeet/Jasenkirje-1-2018.pdf">Jäsenkirje 1 / 2018</a> (.pdf)
