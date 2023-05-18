@@ -4,7 +4,7 @@ layout: default
 metaDesc: Hallitukseen kuuluu puheenjohtajan lisäksi 10 jäsentä. Puheenjohtajana toimii Aune-Inkeri Keijonen.
 ---
 
-Hallitukseen kuuluu puheenjohtajan lisäksi 10 jäsentä. Taloudenhoitaja ei kuulu hallitukseen, mutta hänellä on oikeus ja hänen toivotaan osallistuvan kokouksiin.
+Hallitukseen kuuluu puheenjohtajan lisäksi 10 jäsentä.
 
 **Aune-Inkeri Keijonen, puh.joht.**
 <ul class="mt-0">
@@ -48,24 +48,11 @@ Hallitukseen kuuluu puheenjohtajan lisäksi 10 jäsentä. Taloudenhoitaja ei kuu
 	<li>paivi.etelapaa@pkterveys.fi</li>
 </ul>
 
-**Untamo Hakulinen**
-<ul class="mt-0">
-	<li>Joensuu</li>
-	<li>050-5394711</li>
-	<li>hakulinenuntamo@gmail.com</li>
-</ul>
-
 **Toivo Kuronen**
 <ul class="mt-0">
 	<li>Kitee</li>
 	<li>050-3440283</li>
 	<li>kuroneneevaliisa@gmail.com</li>
-</ul>
-
-**Kalle Lintunen**
-<ul class="mt-0">
-	<li>Tohmajärvi</li>
-	<li>0400-132328</li>
 </ul>
 
 **Pertti Mustajärvi**
@@ -79,4 +66,18 @@ Hallitukseen kuuluu puheenjohtajan lisäksi 10 jäsentä. Taloudenhoitaja ei kuu
 <ul class="mt-0">
 	<li>Joensuu</li>
 	<li>0400-517427</li>
+</ul>
+
+**Leila Immonen**
+<ul class="mt-0">
+	<li>Joensuu</li>
+	<li>050 320 3469</li>
+	<li>immonenleila@gmail.com</li>
+</ul>
+
+**Heikki Pirinen**
+<ul class="mt-0">
+	<li>Kitee</li>
+	<li>050 412 5777</li>
+	<li>heikki.pirinen2@gmail.com</li>
 </ul>
