@@ -45,7 +45,7 @@ Hallitukseen kuuluu puheenjohtajan lisäksi 10 jäsentä.
 <ul class="mt-0">
 	<li>Joensuu</li>
 	<li>050-4707756</li>
-	<li>paivi.etelapaa@pkterveys.fi</li>
+	<li>paivi.etelapaa@luottamus.joensuu.fi</li>
 </ul>
 
 **Toivo Kuronen**
