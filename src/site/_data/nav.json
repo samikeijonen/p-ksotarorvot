@@ -5,6 +5,10 @@
 			"url": "/"
 		},
 		{
+			"text": "Yhdistys",
+			"url": "/yhdistys/"
+		},
+		{
 			"text": "Tiedotteet",
 			"url": "/tiedotteet/"
 		},
