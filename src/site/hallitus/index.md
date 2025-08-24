@@ -20,13 +20,6 @@ Hallitukseen kuuluu puheenjohtajan lisäksi 9 jäsentä.
 	<li>paivi.etelapaa@luottamus.joensuu.fi</li>
 </ul>
 
-**Liisa Turtiainen.**
-<ul class="mt-0">
-	<li>Tohmajärvi</li>
-	<li>040-7219568</li>
-	<li>liisa.turti@gmail.com</li>
-</ul>
-
 **Pirjo Tolvanen, sihteeri**
 <ul class="mt-0">
 	<li>Joensuu</li>
@@ -46,6 +39,13 @@ Hallitukseen kuuluu puheenjohtajan lisäksi 9 jäsentä.
 	<li>Joensuu</li>
 	<li>050-3514842</li>
 	<li>karttunen.martta@kolumbus.fi</li>
+</ul>
+
+**Liisa Turtiainen**
+<ul class="mt-0">
+	<li>Tohmajärvi</li>
+	<li>040-7219568</li>
+	<li>liisa.turti@gmail.com</li>
 </ul>
 
 **Toivo Kuronen**
