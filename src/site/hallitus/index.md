@@ -1,10 +1,10 @@
 ---
 title: Hallitus
 layout: default
-metaDesc: Hallitukseen kuuluu puheenjohtajan lisäksi 10 jäsentä. Puheenjohtajana toimii Aune-Inkeri Keijonen.
+metaDesc: Hallitukseen kuuluu puheenjohtajan lisäksi 9 jäsentä. Puheenjohtajana toimii Aune-Inkeri Keijonen.
 ---
 
-Hallitukseen kuuluu puheenjohtajan lisäksi 10 jäsentä.
+Hallitukseen kuuluu puheenjohtajan lisäksi 9 jäsentä.
 
 **Aune-Inkeri Keijonen, puh.joht.**
 <ul class="mt-0">
@@ -13,7 +13,14 @@ Hallitukseen kuuluu puheenjohtajan lisäksi 10 jäsentä.
 	<li>auneinkeri.keijonen@gmail.com</li>
 </ul>
 
-**Liisa Turtiainen, varapuh.joht.**
+**Päivi Birgitta Eteläpää, varapuh.joht**
+<ul class="mt-0">
+	<li>Joensuu</li>
+	<li>050-4707756</li>
+	<li>paivi.etelapaa@luottamus.joensuu.fi</li>
+</ul>
+
+**Liisa Turtiainen.**
 <ul class="mt-0">
 	<li>Tohmajärvi</li>
 	<li>040-7219568</li>
@@ -31,7 +38,7 @@ Hallitukseen kuuluu puheenjohtajan lisäksi 10 jäsentä.
 <ul class="mt-0">
 	<li>Joensuu</li>
 	<li>050-5241948</li>
-	<li>raili@mastola.fi</li>
+	<li>raili.mastola@gmail.com</li>
 </ul>
 
 **Martta Karttunen, jäsenrek.hoitaja**
@@ -39,13 +46,6 @@ Hallitukseen kuuluu puheenjohtajan lisäksi 10 jäsentä.
 	<li>Joensuu</li>
 	<li>050-3514842</li>
 	<li>karttunen.martta@kolumbus.fi</li>
-</ul>
-
-**Päivi Birgitta Eteläpää**
-<ul class="mt-0">
-	<li>Joensuu</li>
-	<li>050-4707756</li>
-	<li>paivi.etelapaa@luottamus.joensuu.fi</li>
 </ul>
 
 **Toivo Kuronen**
@@ -66,13 +66,6 @@ Hallitukseen kuuluu puheenjohtajan lisäksi 10 jäsentä.
 <ul class="mt-0">
 	<li>Joensuu</li>
 	<li>0400-517427</li>
-</ul>
-
-**Leila Immonen**
-<ul class="mt-0">
-	<li>Joensuu</li>
-	<li>050 320 3469</li>
-	<li>immonenleila@gmail.com</li>
 </ul>
 
 **Heikki Pirinen**
