@@ -6,18 +6,18 @@ metaDesc: Hallitukseen kuuluu puheenjohtajan lisäksi 9 jäsentä. Puheenjohtaja
 
 Hallitukseen kuuluu puheenjohtajan lisäksi 9 jäsentä.
 
-**Aune-Inkeri Keijonen, puh.joht.**
-<ul class="mt-0">
-	<li>Liperi</li>
-	<li>045-1111065</li>
-	<li>auneinkeri.keijonen@gmail.com</li>
-</ul>
-
-**Päivi Birgitta Eteläpää, varapuh.joht**
+**Päivi Birgitta Eteläpää, puh.joht**
 <ul class="mt-0">
 	<li>Joensuu</li>
 	<li>050-4707756</li>
 	<li>paivi.etelapaa@luottamus.joensuu.fi</li>
+</ul>
+
+**Aune-Inkeri Keijonen, varapuh.joht.**
+<ul class="mt-0">
+	<li>Liperi</li>
+	<li>045-1111065</li>
+	<li>auneinkeri.keijonen@gmail.com</li>
 </ul>
 
 **Pirjo Tolvanen, sihteeri**
